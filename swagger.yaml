@@ -19,6 +19,7 @@ consumes:
   - application/json
 produces:
   - application/json
+  - application/xml
 paths:
   /pets:
     get:
